@@ -20,7 +20,7 @@ gleason 	Gleason score    Pathologically determined grade of disease (6, 7 or 8)
 -----------------------------------------
 About the Project:
 
-1) Built a “reasonably good” linear model for the given data by taking PSA level as the response variable. 
+1) Built a linear regression model for the given data by taking PSA level as the response variable. 
 2) Justified all the choices you make in building the model. 
 
 3) Verified the model assumptions and also distinguish between quantitative and qualitative variables. 
